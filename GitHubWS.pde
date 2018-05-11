@@ -4,7 +4,9 @@ void setup() {
 }
 
 void draw() {
+
   fill(255,0,0);
-  textSize(40);
+  textSize(10);
   text("Hello world", 50, 50 );
+
 }
